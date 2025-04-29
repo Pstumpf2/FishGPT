@@ -39,7 +39,7 @@ Links take you to the locations I bought parts.
   - A USB connected Keyboard and Mouse (for setting up the Pi)
   - An HDMI cable
   - A device to plug the HDMI into (TV, Monitor, etc.)
-#Preparing the fish
+# Preparing the fish
 1. Start by taking the single screw off the battery cover and remove any batteries inside.
     - You may need to clean rust from here as battery corrosion in such an old product isn’t unheard of.
 2. Remove the six screws from the back of the plaque
@@ -51,10 +51,11 @@ Links take you to the locations I bought parts.
 7. Using flush cutters, remove the Screw ports and pins that held the motherboard, as we can use that spot for the Pi.
 8. Along with that, use the cutters to flatten out the area the motion sensor was so we can use the spot for the microphone.
 9. (Optional) For more space, you can use a dremel or flush cutters to remove the battery holder.
+
 Once that is all taken care of, you should be able to get started working on adding in new parts!
-#Installing the new hardware
-##Note: I've placed them in order of importance, but for the most part you can do these in any order. **I reccomend reading each part first!**
-##Raspberry Pi
+# Installing the new hardware
+## Note: I've placed them in order of importance, but for the most part you can do these in any order. **I reccomend reading each part first!**
+## Raspberry Pi
 - Until everything is put together and your software is set up, i'd suggest having it unattached for better maneuverability
 - Once everything else is together, you can glue it to the bottom left of Billy's plaque.
   - I recommend using glue to hold it in rather than a heat set solution, as the plaque is thin. I got it to screw onto spacer held in with hot glue and Steel Stick Epoxy ([Amazon])(https://a.co/d/3jzGtAB). If you choose to do this, kkep in mind you will need to bend the pins a bit to have the back sit flush.
