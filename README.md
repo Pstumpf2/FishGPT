@@ -145,7 +145,7 @@ The code is set up in a way where it's fairly modular, as long as the functions 
 # Thanks and Credits
 This project was created for Kuo-pao Yang's CMPS 3750 class in Spring 2025. I want to thank my fellow team members, Adam Graves and Peyton Vinet!
 
-If you want to see the showcase video, here it is! [will update when it's posted]
+If you want to see the showcase video, here it is! [YouTube](https://youtu.be/cvX9v3G8bKw)
 
 I want to thank OpenAI for the easy to use API, Rhasspy's [Piper](https://github.com/rhasspy/piper) for it's optimized TTS for the Pi, Acephi's [VOSK](https://alphacephei.com/vosk/) for similar reasons to Piper, and James Bulpin's [article on hacking a Big Mouth Billy Bass](https://automateeverythingsite.wordpress.com/2016/11/20/hacking-big-mouth-billy-bass-part-13/) for its in depth coverage of Billys, along with timings for movements.
 
